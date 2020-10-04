@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY tdg "DocBook: The Definitive Guide">
+]>
+<section id="cha.publisher.reference">
+  <title>Referenzhandbuch</title>
+  <abstract>
+    <para>
+      Mit Hilfe des Referenzhandbuchs sollen alle Elemente des Publishers erkärt werden.      
+    </para>
+  </abstract>
+  <para>
+  </para>
+  <xi:include href="ReferenceDashboard.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</section>

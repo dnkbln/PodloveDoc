@@ -1,0 +1,70 @@
+<section id="sec.publisher.reference.dashboard">
+  <title>Dashboard</title>
+  <abstract>
+    <para>
+      Das Dashboard zeigt Informationen zu den verwalteten Podcasts an als auch 
+      Informationen zum Podlove Projekt.  
+    </para>
+  </abstract>
+  <para>
+    <figure>
+        <title>Bildschirmfoto vom Dashboard</title>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="dashboard.png" width="80%"/>
+            </imageobject>
+        </mediaobject>
+    </figure>
+    Das Dashboard enthält 4 Boxen. <emphasis>At a glance</emphasis> und 
+    <emphasis>Validate Podcast Files</emphasis> enthalten Informationen über 
+    die publizierten Podcasts und die Boxen <emphasis>About</emphasis> und 
+    <emphasis>Podlove News</emphasis> stellen Informationen über das Podlove 
+    Projekt bereit.
+    <figure>
+      <title>Bildschirmfoto der Screen Options im Dashboard</title>
+      <mediaobject>
+          <imageobject>
+              <imagedata fileref="dashboard_screenoptions.png" width="80%"/>
+          </imageobject>
+      </mediaobject>
+    </figure>
+    Errinnerung: Mit Hilfe der Screen Options kann die Sichtbarkeit der 
+    einzelnen Boxen ein- und ausgeschaltet werden.
+    <table>
+      <title>Dashboard Elemente</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colname="1" colwidth="50*"/>
+        <colspec colnum="2" colname="2" colwidth="50*"/>
+        <thead>
+          <row>
+            <entry>
+              <para>Box</para>
+            </entry>
+            <entry>
+              <para>Aufgabe</para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto der <emphasis>At a glance</emphasis> Box im Dashboard</title>
+                  <mediaobject>
+                      <imageobject>
+                          <imagedata fileref="dashboard_ataglance.png" width="80%"/>
+                      </imageobject>
+                  </mediaobject>
+                </figure>            
+              </para>
+            </entry>
+            <entry>
+              <para>Hier ist eine Zusammenfassung der </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </para>
+</section>
