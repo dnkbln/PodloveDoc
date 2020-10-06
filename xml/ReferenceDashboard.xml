@@ -8,24 +8,30 @@
   </abstract>
   <para>
     <figure>
-        <title>Bildschirmfoto vom Dashboard</title>
-        <mediaobject>
-            <imageobject>
-                <imagedata fileref="dashboard.png" width="80%"/>
-            </imageobject>
-        </mediaobject>
+      <title>Bildschirmfoto vom Dashboard</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="dashboard.png" width="80%" />
+        </imageobject>
+      </mediaobject>
     </figure>
-    Das Dashboard enthält 4 Boxen. <emphasis>At a glance</emphasis> und 
-    <emphasis>Validate Podcast Files</emphasis> enthalten Informationen über 
-    die publizierten Podcasts und die Boxen <emphasis>About</emphasis> und 
-    <emphasis>Podlove News</emphasis> stellen Informationen über das Podlove 
+    Das Dashboard enthält 4 Boxen.
+    <emphasis>At a glance</emphasis>
+    und
+    <emphasis>Validate Podcast Files</emphasis>
+    enthalten Informationen über 
+    die publizierten Podcasts und die Boxen
+    <emphasis>About</emphasis>
+    und
+    <emphasis>Podlove News</emphasis>
+    stellen Informationen über das Podlove 
     Projekt bereit.
     <figure>
       <title>Bildschirmfoto der Screen Options im Dashboard</title>
       <mediaobject>
-          <imageobject>
-              <imagedata fileref="dashboard_screenoptions.png" width="80%"/>
-          </imageobject>
+        <imageobject>
+          <imagedata fileref="dashboard_screenoptions.png" width="80%" />
+        </imageobject>
       </mediaobject>
     </figure>
     Errinnerung: Mit Hilfe der Screen Options kann die Sichtbarkeit der 
@@ -33,8 +39,8 @@
     <table>
       <title>Dashboard Elemente</title>
       <tgroup cols="2">
-        <colspec colnum="1" colname="1" colwidth="50*"/>
-        <colspec colnum="2" colname="2" colwidth="50*"/>
+        <colspec colnum="1" colname="1" colwidth="50*" />
+        <colspec colnum="2" colname="2" colwidth="50*" />
         <thead>
           <row>
             <entry>
@@ -50,17 +56,100 @@
             <entry>
               <para>
                 <figure>
-                  <title>Bildschirmfoto der <emphasis>At a glance</emphasis> Box im Dashboard</title>
+                  <title>
+                    Bildschirmfoto der
+                    <emphasis>At a glance</emphasis>
+                    Box im Dashboard
+                  </title>
                   <mediaobject>
-                      <imageobject>
-                          <imagedata fileref="dashboard_ataglance.png" width="80%"/>
-                      </imageobject>
+                    <imageobject>
+                      <imagedata fileref="dashboard_ataglance.png" width="80%" />
+                    </imageobject>
                   </mediaobject>
-                </figure>            
+                </figure>
               </para>
             </entry>
             <entry>
-              <para>Hier ist eine Zusammenfassung der </para>
+              <para>
+                Hier findest du eine Zusammenfassung der Episoden. Ausserdem 
+                wird angegeben wieviele Epsioden bereits veröffentlicht wurden,
+                privat sind, noch veröffentlicht werden können und als Entwurf
+                vorhanden sind. Des weiteren gibt es eine kleine Statistik mit
+                der duchschnittlichen Länge einer Episode, der Gesamtlänge aller
+                Episoden, der durchschnittlichen Media-Filegröße, der Gesamtgröße
+                der Media-Files und dem durchschnittliche Abstand in dem neue
+                Episoden veröffentlicht werden.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>
+                    Bildschirmfoto der
+                    <emphasis>Validate Podcast Files</emphasis>
+                    Box im Dashboard
+                  </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="dashboard_validate.png" width="80%" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <remark>Was wird hier validiert?</remark>
+              <para></para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>
+                    Bildschirmfoto der
+                    <emphasis>About</emphasis>
+                    Box im Dashboard
+                  </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="dashboard_about.png" width="80%" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier findest du Links zur Podlove Publisher Webseite, zu Podlove 
+                Allgemein, zur Podlove Community, zur Dokumentation, zum Melden
+                von Fehlern und zur Spendenseite.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>
+                    Bildschirmfoto der
+                    <emphasis>Podlove News</emphasis>
+                    Box im Dashboard
+                  </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="dashboard_news.png" width="80%" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier findest du Hinweise zur Veröffentlichung neuer Versionen.
+              </para>
             </entry>
           </row>
         </tbody>
