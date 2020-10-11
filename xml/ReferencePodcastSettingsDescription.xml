@@ -1,0 +1,59 @@
+<section id="sec.publisher.reference.podcast-settings.description">
+  <title>Podcast Settings Tab Description</title>
+  <abstract>
+    <para>
+      Hier werden die grundlegenden Daten zur Beschreibung und 
+      Identifizierung des Podcasts festgelegt. 
+    </para>
+  </abstract>
+  <para>
+    <figure>
+      <title>Bildschirmfoto von den Podcast Settings Tab Description</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="podcastsettings_description.png" width="80%" />
+        </imageobject>
+      </mediaobject>
+    </figure>
+    <table>
+      <title>Description Elemente</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colname="1" colwidth="50*" />
+        <colspec colnum="2" colname="2" colwidth="50*" />
+        <thead>
+          <row>
+            <entry>
+              <para>Element</para>
+            </entry>
+            <entry>
+              <para>Aufgabe</para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto der Hilfe zum Tab Description</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_info.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Am Anfang findest du eine kurze Hilfsanleitung für die
+                Felder <emphasis>Title</emphasis>, <emphasis>Subtitle</emphasis>
+                und <emphasis>Summary</emphasis>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </para>
+</section>
