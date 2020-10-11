@@ -27,14 +27,14 @@
     stellen Informationen über das Podlove 
     Projekt bereit.
     <figure>
-      <title>Bildschirmfoto der Screen Options im Dashboard</title>
+      <title>Bildschirmfoto der Screen Optionen im Dashboard</title>
       <mediaobject>
         <imageobject>
           <imagedata fileref="dashboard_screenoptions.png" width="80%" />
         </imageobject>
       </mediaobject>
     </figure>
-    Errinnerung: Mit Hilfe der Screen Options kann die Sichtbarkeit der 
+    Erinnerung: Mit Hilfe der Screen Optionen kann die Sichtbarkeit der 
     einzelnen Boxen ein- und ausgeschaltet werden.
     <table>
       <title>Dashboard Elemente</title>
@@ -71,11 +71,11 @@
             </entry>
             <entry>
               <para>
-                Hier findest du eine Zusammenfassung der Episoden. Ausserdem 
-                wird angegeben wieviele Epsioden bereits veröffentlicht wurden,
+                Hier findest du eine Zusammenfassung der Episoden. Außerdem 
+                wird angegeben wie viele Episoden bereits veröffentlicht wurden,
                 privat sind, noch veröffentlicht werden können und als Entwurf
                 vorhanden sind. Des weiteren gibt es eine kleine Statistik mit
-                der duchschnittlichen Länge einer Episode, der Gesamtlänge aller
+                der durchschnittlichen Länge einer Episode, der Gesamtlänge aller
                 Episoden, der durchschnittlichen Media-Filegröße, der Gesamtgröße
                 der Media-Files und dem durchschnittliche Abstand in dem neue
                 Episoden veröffentlicht werden.
