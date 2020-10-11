@@ -1,1 +1,5 @@
+# Build Folder
 build/*
+
+# Backup-Files
+*.bak
