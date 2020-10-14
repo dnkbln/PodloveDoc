@@ -52,6 +52,157 @@
               </para>
             </entry>
           </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto Eingabe Title </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_title.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Der hier eingegebene Titel ist die Bezeichnung die zur Darstellung
+                des Podcast in Podcast-Verzeichnissen (z.B. iTunes), Listen und 
+                anderen Anwendungen benutzt wird. 
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto Eingabe Subtitle </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_subtitle.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Mit dem Untertitel kann einer erster Ausblick daruf gegeben werden 
+                mit was sich der Podcast inhaltlich beschäftigt und was er vermitteln
+                will.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto Eingabe Summary </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_summary.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier kann eine kurze Zusammenfassung über den Podcast angegeben 
+                werden. Diese kann aus einem oder mehreren Stätzen bzw. Absätzen 
+                bestehen.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto Eingabe Image </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_image.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier kann ein Cover Art des Podcasts angegeben werden. Die Bilddatei wird
+                mit Hilfe der Medienverwaltung von Wordpress hochgeladen und ausgewählt.
+                Wird später in den Episoden kein eigenes Episodenbild angegeben, so 
+                wird das Cover Art des Podcasts auch für die Episoden verwendet.
+                Es wird empfohlen eine hohe Auflösung für das Cover Art zu verwenden.
+                iTunes schlägt als Auflösung 3000x3000 px vor.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto Eingabe Mnemonic </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_mnemonic.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                <remark>
+                  Wo wird die Gedächtnisstütze benutz?
+                </remark>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto Eingabe Language </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_lang_option.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier kannst Du angeben in welcher Sprache der Podcast erstellt wird.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Bildschirmfoto Eingabe Type </title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_description_type_option.png" width="80%"/>
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier kannst Du in welcher Reihenfolge die Episoden dargestellt werden sollen. Es gibt 
+                zwei Optionen. In der <emphasis>Episodic</emphasis> Darstellung werden die 
+                letzen Folgen als erstes dargestellt. In der <emphasis>Serial</emphasis> 
+                Darstellung werden die Folgen in der Reihenfolge ihrer Erstellung 
+                präsentiert. Dies kann hilfreich für Geschichten, mehrere Staffeln oder 
+                Erzählungen sein.
+              </para>
+            </entry>
+          </row>
         </tbody>
       </tgroup>
     </table>

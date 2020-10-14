@@ -1,0 +1,28 @@
+<section id="sec.publisher.reference.wordpress.admin">
+  <title>Wordpress Admin Menu</title>
+  <abstract>
+    <para>
+      Menüeinträge im Wordpress Admin Menu
+    </para>
+  </abstract>
+  <figure>
+    <title>Wordpress Admin Episodes und Podlove</title>
+    <mediaobject>
+      <imageobject>
+        <imagedata fileref="wordpress_admin.png" width="30%" />
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <para>
+    Nach der Installation und Aktivierung des Podlove Publisher Plugins gibt es im 
+    Wordpress Admin Bereich zwei neue Menüeinträge <emphasis>Episodes</emphasis>
+    und <emphasis>Podlove</emphasis>. Im Bereich <emphasis>Epidodes</emphasis>
+    können neue Podcastfolgen erzeugt werden.
+    <remark>
+      Warum gibt es eine Trennung zwischen Posts und Epsiodes. Stimmen die 
+      Aussagen von Tim noch?
+    </remark>
+    Im Bereich Podlove erfolgen die globalen Einstellung zum Publizieren des
+    Podcasts.
+  </para>
+</section>
