@@ -15,11 +15,11 @@
         </imageobject>
       </mediaobject>
     </figure>
-    <table>
+    <table width="100%">
       <title>Description Elemente</title>
-      <tgroup cols="2">
-        <colspec colnum="1" colname="1" colwidth="50*" />
-        <colspec colnum="2" colname="2" colwidth="50*" />
+      <tgroup cols='2'>
+        <colspec colnum="1" colname="1" colwidth="3*" />
+        <colspec colnum="2" colname="2" colwidth="1*" />
         <thead>
           <row>
             <entry>
@@ -38,7 +38,7 @@
                   <title>Bildschirmfoto der Hilfe zum Tab Description</title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_info.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_info.png"/>
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -59,7 +59,7 @@
                   <title>Bildschirmfoto Eingabe Title </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_title.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_title.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -80,7 +80,7 @@
                   <title>Bildschirmfoto Eingabe Subtitle </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_subtitle.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_subtitle.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -101,7 +101,7 @@
                   <title>Bildschirmfoto Eingabe Summary </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_summary.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_summary.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -122,7 +122,7 @@
                   <title>Bildschirmfoto Eingabe Image </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_image.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_image.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -146,7 +146,7 @@
                   <title>Bildschirmfoto Eingabe Mnemonic </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_mnemonic.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_mnemonic.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -167,7 +167,7 @@
                   <title>Bildschirmfoto Eingabe Language </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_lang_option.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_lang_option.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -186,7 +186,7 @@
                   <title>Bildschirmfoto Eingabe Type </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="podcastsettings_description_type_option.png" width="80%"/>
+                      <imagedata fileref="podcastsettings_description_type_option.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>

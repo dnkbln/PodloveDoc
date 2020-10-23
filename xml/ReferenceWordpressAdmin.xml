@@ -1,5 +1,5 @@
-<section id="sec.publisher.reference.wordpress.admin">
-  <title>Wordpress Admin Menu</title>
+<chapter id="chp.publisher.reference.wordpress.admin">
+  <title>Wordpress Admin</title>
   <abstract>
     <para>
       Menüeinträge im Wordpress Admin Menu
@@ -25,4 +25,4 @@
     Im Bereich Podlove erfolgen die globalen Einstellung zum Publizieren des
     Podcasts.
   </para>
-</section>
+</chapter>

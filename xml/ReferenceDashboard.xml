@@ -1,4 +1,4 @@
-<section id="sec.publisher.reference.dashboard">
+<chapter id="cha.publisher.reference.dashboard">
   <title>Dashboard</title>
   <abstract>
     <para>
@@ -39,8 +39,8 @@
     <table>
       <title>Dashboard Elemente</title>
       <tgroup cols="2">
-        <colspec colnum="1" colname="1" colwidth="50*" />
-        <colspec colnum="2" colname="2" colwidth="50*" />
+        <colspec colnum="1" colname="1" colwidth="3*" />
+        <colspec colnum="2" colname="2" colwidth="1*" />
         <thead>
           <row>
             <entry>
@@ -63,7 +63,7 @@
                   </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="dashboard_ataglance.png" width="80%" />
+                      <imagedata fileref="dashboard_ataglance.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -93,7 +93,7 @@
                   </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="dashboard_validate.png" width="80%" />
+                      <imagedata fileref="dashboard_validate.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -115,7 +115,7 @@
                   </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="dashboard_about.png" width="80%" />
+                      <imagedata fileref="dashboard_about.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -140,7 +140,7 @@
                   </title>
                   <mediaobject>
                     <imageobject>
-                      <imagedata fileref="dashboard_news.png" width="80%" />
+                      <imagedata fileref="dashboard_news.png" />
                     </imageobject>
                   </mediaobject>
                 </figure>
@@ -156,4 +156,4 @@
       </tgroup>
     </table>
   </para>
-</section>
+</chapter>

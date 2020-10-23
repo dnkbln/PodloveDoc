@@ -1,4 +1,4 @@
-<section id="sec.publisher.reference.analytics">
+<chapter id="cha.publisher.reference.analytics">
   <title>Analytics</title>
   <abstract>
     <para>
@@ -8,4 +8,5 @@
       </remark>
     </para>
   </abstract>
-</section>
+  <para></para>
+</chapter>

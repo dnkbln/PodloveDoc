@@ -1,33 +1,33 @@
-<section id="sec.publisher.reference.podcast-settings">
+<chapter id="cha.publisher.reference.podcast-settings">
   <title>Podcast Settings</title>
   <abstract>
     <para>
-        Hier werden die grundlegenden Daten des Podcasts festgelegt. 
-      </para>
+      Hier werden die grundlegenden Daten des Podcasts festgelegt. 
+    </para>
   </abstract>
-  <para>
-    <figure>
-      <title>Bildschirmfoto von den Podcast Settings</title>
-      <mediaobject>
-        <imageobject>
-          <imagedata fileref="podcastsettings.png" width="80%" />
-        </imageobject>
-      </mediaobject>
-    </figure>
-    Im Bereich <emphasis>Podcast Settings</emphasis> gibt es 6 Tabs. 
-    In den Tabs <emphasis>Description</emphasis> und 
-    <emphasis>Media</emphasis> müssen Informationen eingetragen werden.
-    Die Eingabe der Daten in den Tabs <emphasis>Player</emphasis>,
-    <emphasis>License</emphasis>, <emphasis>Directory</emphasis> und
-    <emphasis>Affiliate</emphasis> sind optional.
-    <caution>
-      <para>
-        Die Eingaben in diesem Tab werden immer erst nach der Betätigung
-        des Buttons <emphasis>Save changes</emphasis> gespeichert und
-        wirksam. Bei einem Wechsel der Tabs ohne <emphasis>Save changes</emphasis>
-        gehen alle Eingabe verloren.
-      </para>
-    </caution>
-  </para>
+    <para>
+      <figure>
+        <title>Bildschirmfoto von den Podcast Settings</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="podcastsettings.png" width="80%" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      Im Bereich <emphasis>Podcast Settings</emphasis> gibt es 6 Tabs. 
+      In den Tabs <emphasis>Description</emphasis> und 
+      <emphasis>Media</emphasis> müssen Informationen eingetragen werden.
+      Die Eingabe der Daten in den Tabs <emphasis>Player</emphasis>,
+      <emphasis>License</emphasis>, <emphasis>Directory</emphasis> und
+      <emphasis>Affiliate</emphasis> sind optional.
+      <caution>
+        <para>
+          Die Eingaben in diesem Tab werden immer erst nach der Betätigung
+          des Buttons <emphasis>Save changes</emphasis> gespeichert und
+          wirksam. Bei einem Wechsel der Tabs ohne <emphasis>Save changes</emphasis>
+          gehen alle Eingabe verloren.
+        </para>
+      </caution>
+    </para>
   <xi:include href="ReferencePodcastSettingsDescription.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-</section>
+</chapter>
