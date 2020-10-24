@@ -6,7 +6,7 @@ if [[ $# -ne 1 ]]; then
     exit 1
 fi
 
-if [[ "$1" == "pdf" || "$1" == "html" ]]; 
+if [[ "$1" == "pdf" || "$1" == "html" || "$1" == "webhelp" ]]; 
 then
     daps -d DC-Podlove_Podcast_Publisher_Dokumentation $1
     exit 0

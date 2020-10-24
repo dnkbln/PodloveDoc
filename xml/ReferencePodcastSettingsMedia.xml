@@ -1,0 +1,70 @@
+<section id="sec.publisher.reference.podcast-settings.media">
+  <title>Podcast Settings Tab Media</title>
+  <abstract>
+    <para>
+      Hier wird der Ort der Mediendaten festgelegt. 
+    </para>
+  </abstract>
+  <para>
+    <figure>
+      <title>Bildschirmfoto von den Podcast Settings Tab Media</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="podcastsettings_media.png" width="80%" />
+        </imageobject>
+      </mediaobject>
+    </figure>
+    Im Media-Tab wird der Speicherort der Mediendaten bestimmt. 
+    Diese Information nutzt der Publisher um die URL aller Media-Dateien 
+    zu bestimmen.
+    Wird der Speicherort geändert (z.B. durch Provideränderung)
+    so muss die Änderung nur hier vorgenommen werden. 
+    Gibt es am Speicherort bereits eine Datei, so kann im Browser 
+    wie folgt kontrolliert werden, ob der richtige Speicherort 
+    angegeben wurde. Dazu wird die URL aus dem Eingabefeld hier in die 
+    Adresszeile des Browsers kopiert und ein Filename von einem
+    bereits existierenden Datei hinzugefügt. Nach der Bestätigung 
+    der Eingabe sollte der Browser diese Datei anzeigen.
+  </para>
+  <table>
+    <title>Podcast Media Location</title>
+    <tgroup cols="2">
+      <colspec colnum="1" colname="1" colwidth="3*" />
+      <colspec colnum="2" colname="2" colwidth="1*" />
+      <thead>
+        <row>
+          <entry>
+            <para>Element</para>
+          </entry>
+          <entry>
+            <para>Aufgabe</para>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry>
+            <para>
+              <figure>
+                <title>Podcast Settings Media Location</title>
+                <mediaobject>
+                  <imageobject>
+                    <imagedata fileref="podcastsettings_media_location.png" />
+                  </imageobject>
+                </mediaobject>
+              </figure>
+            </para>
+          </entry>
+          <entry>
+            <para>
+              Hier wird der Ort angegeben an dem die Media-Files gespeichert werden. 
+              Dabei handelt es sich um die Basis-URL. Alle Files sollen in diesem
+              Verzeichnis gespeichert werden. Die einzelnen Episoden sollen nicht
+              in eigene Verzeichnisse gespeichert werden.
+            </para>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</section>

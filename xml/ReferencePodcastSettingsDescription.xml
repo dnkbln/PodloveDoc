@@ -15,6 +15,14 @@
         </imageobject>
       </mediaobject>
     </figure>
+      Die gestaffelte Eingabe der Informationen zum Titel, Untertitel und 
+      Zusammenfassung gibt es auch bei den Episoden. Diese abgestufte 
+      Information soll es Nutzer des Feeds (z.B. Podcast-Clients, Playern, usw.)
+      helfen die Informationen auf eine geeignete Art darzustellen. Ist 
+      eine Information bereits ausreichend mit Titel und Untertitel 
+      beschrieben, so sollte die Information nicht einfach in die 
+      ZUsammenfassung kopiert werden.
+      <remark>ToDo: Link zur Epsioden-Seite einfügen</remark>
     <table width="100%">
       <title>Description Elemente</title>
       <tgroup cols='2'>
@@ -88,7 +96,7 @@
             </entry>
             <entry>
               <para>
-                Mit dem Untertitel kann einer erster Ausblick daruf gegeben werden 
+                Mit dem Untertitel kann einer erster Ausblick darauf gegeben werden 
                 mit was sich der Podcast inhaltlich beschäftigt und was er vermitteln
                 will.
               </para>
@@ -110,7 +118,7 @@
             <entry>
               <para>
                 Hier kann eine kurze Zusammenfassung über den Podcast angegeben 
-                werden. Diese kann aus einem oder mehreren Stätzen bzw. Absätzen 
+                werden. Diese kann aus einem oder mehreren Sätzen bzw. Absätzen 
                 bestehen.
               </para>
             </entry>
@@ -161,7 +169,7 @@
             </entry>
           </row>
           <row>
-            <entry>
+            <entry id="sec.publisher.reference.podcast-settings.description.lang">
               <para>
                 <figure>
                   <title>Bildschirmfoto Eingabe Language </title>
@@ -196,7 +204,7 @@
               <para>
                 Hier kannst Du in welcher Reihenfolge die Episoden dargestellt werden sollen. Es gibt 
                 zwei Optionen. In der <emphasis>Episodic</emphasis> Darstellung werden die 
-                letzen Folgen als erstes dargestellt. In der <emphasis>Serial</emphasis> 
+                letzten Folgen als erstes dargestellt. In der <emphasis>Serial</emphasis> 
                 Darstellung werden die Folgen in der Reihenfolge ihrer Erstellung 
                 präsentiert. Dies kann hilfreich für Geschichten, mehrere Staffeln oder 
                 Erzählungen sein.

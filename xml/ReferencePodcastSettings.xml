@@ -29,5 +29,7 @@
         </para>
       </caution>
     </para>
-  <xi:include href="ReferencePodcastSettingsDescription.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+    <xi:include href="ReferencePodcastSettingsDescription.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+    <xi:include href="ReferencePodcastSettingsMedia.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+    <xi:include href="ReferencePodcastSettingsPlayer.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 </chapter>

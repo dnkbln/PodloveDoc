@@ -1,0 +1,275 @@
+<section id="sec.publisher.reference.podcast-settings.player">
+    <title>Podcast Settings Tab Player</title>
+    <abstract>
+      <para>
+        Hier wird festgelegt welcher Player gegebenfalls benutzt wird. 
+      </para>
+    </abstract>
+    <para>
+      <figure>
+        <title>Bildschirmfoto von den Podcast Settings Tab Player</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="podcastsettings_player.png" width="80%" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+    </para>
+    <table>
+      <title>Player Einstellungen</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colname="1" colwidth="3*" />
+        <colspec colnum="2" colname="2" colwidth="1*" />
+        <thead>
+          <row>
+            <entry>
+              <para>Element</para>
+            </entry>
+            <entry>
+              <para>Aufgabe</para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Player Selection</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_player_selection.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Wird später bei der Erstellung der Episoden ein Webplayer
+                eingebunden, so wird der Webplayer verwendet, der hier 
+                ausgewählt wurde.
+
+                Es stehen drei Webplayer zur Auswahl der <emphasis>Podlove Web Player 4</emphasis> 
+                , der <emphasis>Podlove Web Player 5</emphasis> und der 
+                <emphasis>Podigee Podcast Player</emphasis>. 
+
+                <caution>
+                    <para>
+                        Der <emphasis>Podlove Web Player 4</emphasis> ist veraltet. 
+                        Es kann sein, dass in einer der zukünftigen Versionen dieser entfernt wird.
+                    </para>
+                </caution>
+                <caution>
+                    <para>
+                        Soll der <emphasis>Podlove Web Player 5</emphasis> benutzt werden,
+                        so ist dieser als eigenständiges Plugin in Wordpress zu installieren.
+                    </para>
+                </caution>
+            </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para>
+        Für jeden der gewählten Player gibt es verschiedene Möglichkeiten der Anpassunge. 
+        In den folgenden Tabellen sind die jeweiligen Einstellungen aufgelistet.
+    </para>
+    <table>
+        <title>Einstellungen für den Podlove Web Player 4</title>
+        <tgroup cols="2">
+            <colspec colnum="1" colname="1" colwidth="3*" />
+            <colspec colnum="2" colname="2" colwidth="1*" />
+            <thead>
+                <row>
+                    <entry>
+                        <para>Element</para>
+                    </entry>
+                    <entry>
+                        <para>Aufgabe</para>
+                    </entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>
+                        <para>
+                            <figure>
+                                <title>Hauptfarbe</title>
+                                <mediaobject>
+                                    <imageobject>
+                                        <imagedata fileref="podcastsettings_player_player4_primarycolor.png" />
+                                    </imageobject>
+                                </mediaobject>
+                            </figure>
+                        </para>
+                    </entry>
+                    <entry>
+                        <para>
+                            Im Podlove Web Player 4 wird das Farbschema von einer Haupt- 
+                            und einer Nebenfarbe abgeleitet. Hier wird die Hauptfarbe festgelegt. 
+                            Die Angabe der Farbe kann in Hex, RGB oder RGBA erfolgen. 
+                            z.B. Hex: f5efe0, RGB: 245,239,224, RBGA: 245,239,224,0.9 
+                        </para>
+                    </entry>
+                </row>
+                <row>
+                    <entry>
+                        <para>
+                            <figure>
+                                <title>Nebenfarbe</title>
+                                <mediaobject>
+                                    <imageobject>
+                                        <imagedata fileref="podcastsettings_player_player4_secondarycolor.png" />
+                                    </imageobject>
+                                </mediaobject>
+                            </figure>
+                        </para>
+                    </entry>
+                    <entry>
+                        <para>
+                            Im Podlove Web Player 4 wird das Farbschema von einer Haupt- 
+                            und einer Nebenfarbe abgeleitet. Hier wird die Nebenfarbe festgelegt. 
+                            Die Angabe der Farbe kann in Hex, RGB oder RGBA erfolgen. 
+                            z.B. Hex: f5efe0, RGB: 245,239,224, RBGA: 245,239,224,0.9 
+                        </para>
+                    </entry>
+                </row>
+                <row>
+                    <entry>
+                        <para>
+                            <figure>
+                                <title>Sichtbarkeit der Web Player 4 Componenten</title>
+                                <mediaobject>
+                                    <imageobject>
+                                        <imagedata fileref="podcastsettings_player_player4_visiblecomp.png" />
+                                    </imageobject>
+                                </mediaobject>
+                            </figure>
+                        </para>
+                    </entry>
+                    <entry>
+                        <para>
+                            Hier wird festgelegt welche Teile vom Podlove Web Player 4 angezeigt werden.
+                            <remark>
+                                Hier sollte ein Bild des Web Players 4 rein, der die einzelnen Componenten 
+                                darstellt.
+                            </remark>
+                        </para>
+                    </entry>
+                </row>
+                <row>
+                    <entry>
+                        <para>
+                            <figure>
+                                <title>Spracheinstellung</title>
+                                <mediaobject>
+                                    <imageobject>
+                                        <imagedata fileref="podcastsettings_player_player4_lang.png" />
+                                    </imageobject>
+                                </mediaobject>
+                            </figure>
+                        </para>
+                    </entry>
+                    <entry>
+                        <para>
+                            Ist diese Option aktiv, wird die  
+                            <link linkend="sec.publisher.reference.podcast-settings.description.lang">Spracheinstellung</link> 
+                            des Podcasts verwendet.
+                            Ist die Option inaktiv, wird die Spracheinstellung des Browsers verwendet. 
+                        </para>
+                    </entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+    <table>
+        <title>Podlove Web Player 5</title>
+        <tgroup cols="2">
+            <colspec colnum="1" colname="1" colwidth="3*" />
+            <colspec colnum="2" colname="2" colwidth="1*" />
+            <thead>
+                <row>
+                    <entry>
+                        <para>Element</para>
+                    </entry>
+                    <entry>
+                        <para>Aufgabe</para>
+                    </entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>
+                        <para>
+                            <figure>
+                                <title>Link zu den Web Player 5 Einstellungen</title>
+                                <mediaobject>
+                                    <imageobject>
+                                        <imagedata fileref="podcastsettings_player_player5_settings.png" />
+                                    </imageobject>
+                                </mediaobject>
+                            </figure>
+                            <figure>
+                                <title>Wordpress Einstellungen Web Player 5</title>
+                                <mediaobject>
+                                    <imageobject>
+                                        <imagedata fileref="wordpress_settings_webplayer5.png" width="50%" />
+                                    </imageobject>
+                                </mediaobject>
+                            </figure>
+                        </para>
+                    </entry>
+                    <entry>
+                        <para>
+                            Die Einstellungen des Podlove Web Player 5 werden nicht hier im Podlove Bereich
+                            vorgenommen, sondern unter den Wordpress Einstellungen. Dort gibt es einen 
+                            Bereich für den Podlove Web Player. Der Link hier im Menü öffnet diese.
+                        </para>
+                    </entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+    <table>
+        <title>Podigee Podcast Player</title>
+        <tgroup cols="2">
+            <colspec colnum="1" colname="1" colwidth="3*" />
+            <colspec colnum="2" colname="2" colwidth="1*" />
+            <thead>
+                <row>
+                    <entry>
+                        <para>Element</para>
+                    </entry>
+                    <entry>
+                        <para>Aufgabe</para>
+                    </entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                    <entry>
+                        <para>
+                            <figure>
+                                <title>Podigee Theme</title>
+                                <mediaobject>
+                                    <imageobject>
+                                        <imagedata fileref="podcastsettings_player_podigee_theme.png" />
+                                    </imageobject>
+                                </mediaobject>
+                            </figure>
+                        </para>
+                    </entry>
+                    <entry>
+                        <para>
+                            Mit der Auswahl wird das Theme für den Podigee Podcast Player 
+                            festgelegt. Es stehen Default, Default (Dark) und Minimal zur 
+                            Auswahl.
+                        </para>
+                    </entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table>
+  </section>
