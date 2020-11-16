@@ -1,0 +1,124 @@
+<section id="sec.publisher.reference.podcast-settings.license">
+    <title>Podcast Settings Tab License</title>
+    <abstract>
+      <para>
+        Hier kann optional eine Lizenz für den Podcast ausgewählt werden. 
+      </para>
+    </abstract>
+    <para>
+      <figure>
+        <title>Bildschirmfoto von den Podcast Settings Tab License</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="podcastsettings_license.png" width="80%" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      Im Lizenz-Tab kann optional eine Lizenz ausgewählt werden unter 
+      der der Podcast veröffentlicht wird. 
+    </para>
+    <table>
+      <title>Podcast License</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colname="1" colwidth="3*" />
+        <colspec colnum="2" colname="2" colwidth="1*" />
+        <thead>
+          <row>
+            <entry>
+              <para>Element</para>
+            </entry>
+            <entry>
+              <para>Aufgabe</para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Lizenz Name</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_license_name.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier kann der Name der gewünschten Lizenz angegeben werden.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Lizenz URL</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_license_url.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier kann eine URL angegeben werden. Dort sollte sich eine 
+                Beschreibung der angegebenen Lizenz finden. 
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Lizenz Auswahl</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_license_version_select.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Nach dem Ausklappen der Lizenzauswahl kann eine von 4 vordefinierten 
+                Lizenzen ausgewählt werden. Wird eine Lizenz ausgewählt, so wird 
+                automatisch der Name und die zugehörige URL ausgefüllt.  
+                Wurden hier Daten hinterlegt, so können diese Daten später in den
+                Template verwendet werden.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Lizenz Preview</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_license_preview.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Wurde eine der aufgelisteten Lizenzen ausgewählt, so gibt es nach
+                der Auswahl eine Vorschau auf eine mögliche Darstellung der Lizenz.
+                Die Darstellung muss aber über die jeweiligen Template-Tags 
+                aktiviert werden. 
+              <remark>Später Link zu den Template Tags einbauen.</remark>
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
