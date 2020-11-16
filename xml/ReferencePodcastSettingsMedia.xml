@@ -26,6 +26,21 @@
     bereits existierenden Datei hinzugefügt. Nach der Bestätigung 
     der Eingabe sollte der Browser diese Datei anzeigen.
   </para>
+  <para>
+    Ohne eine Änderung der Wordpress Standardeinstellungen kann der 
+    Mediaordner von Wordpress nicht für die Mediendaten für einen 
+    Podcast verwendet werden. Wird die folgende Einstellung deaktiviert
+    so kann der Wordpress Mediaordner auf für Podcast genutzt werden.
+    Dies wäre die einfachste Möglichkeit um einen Podcast zu starten.
+    <figure>
+      <title>Bildschirmfoto von den Wordpress Setting Media Upload</title>
+      <mediaobject>
+        <imageobject>
+          <imagedata fileref="podcastsettings_media_wordpress.png" width="80%" />
+        </imageobject>
+      </mediaobject>
+    </figure>
+  </para>
   <table>
     <title>Podcast Media Location</title>
     <tgroup cols="2">

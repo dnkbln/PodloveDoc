@@ -7,6 +7,8 @@
     </para>
   </abstract>
   <para>
+    Die Eingabe eines Titels, Untertitels, der Zusammenfassung und eines 
+    Titelbildes sind zwingend erforderlich.
     <figure>
       <title>Bildschirmfoto von den Podcast Settings Tab Description</title>
       <mediaobject>
@@ -141,9 +143,9 @@
                 Hier kann ein Cover Art des Podcasts angegeben werden. Die Bilddatei wird
                 mit Hilfe der Medienverwaltung von Wordpress hochgeladen und ausgewählt.
                 Wird später in den Episoden kein eigenes Episodenbild angegeben, so 
-                wird das Cover Art des Podcasts auch für die Episoden verwendet.
-                Es wird empfohlen eine hohe Auflösung für das Cover Art zu verwenden.
-                iTunes schlägt als Auflösung 3000x3000 px vor.
+                wird das Cover Art des Podcasts auch für die Episoden verwendet. 
+                Die Bilddatei muss eine quadratische Auflösung haben und eine Mindestauflösung
+                von 1400x1400 px. iTunes schlägt als Auflösung 3000x3000 px vor.
               </para>
             </entry>
           </row>
