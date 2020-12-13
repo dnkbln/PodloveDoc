@@ -1,0 +1,204 @@
+<section id="sec.publisher.reference.podcast-settings.directory">
+    <title>Podcast Settings Tab License</title>
+    <abstract>
+      <para>
+        Hier können Angaben für Podcast-Directories z.B. iTunes gemacht werden. 
+      </para>
+    </abstract>
+    <para>
+      <figure>
+        <title>Bildschirmfoto von den Podcast Settings Tab Directory</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="podcastsettings_directory.png" width="80%" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      Im Directory Tab werden Informationen für die Podcast Directories angegeben. 
+      Die Daten werden im Feed teilweise in speziellen Einträgen verwendet. In 
+      der folgenden Tabelle sind die Einträge mitangegeben, 
+    </para>
+    <table>
+      <title>Podcast Directory</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colname="1" colwidth="3*" />
+        <colspec colnum="2" colname="2" colwidth="1*" />
+        <thead>
+          <row>
+            <entry>
+              <para>Element</para>
+            </entry>
+            <entry>
+              <para>Aufgabe</para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Directory Author</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_author.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier wird der Author des Podcasts angegeben. Diese Information 
+                ist öffentlich und findet sich zum Beispiel im iTunes Verzeichnis.
+                An dieser Stelle könnte auch ein Künstlername verwendet werden.
+                Diese Angabe füllt im Feed den Eintrag itunes:author
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Directory Publisher</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_publisher.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Angabe des Podcast Publishers
+                <remark>Wozu ist diese Angabe?</remark>
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Directory Publisher URL</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_publisher_url.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Angabe einer URL mit Informationen zum Publisher des Podcasts.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Directory Besitzer</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_owner.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Angabe wer für diesen Podcast zu ständig. Diese Angabe wird 
+                verwendet wenn Podcastverzeichnisse mit dem Podcastbeteiber 
+                in Kontakt treten wollen.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Directory Besitzer E-Mail Adresse</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_owner_mail.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Angabe der E-Mail Adresse des Podcastverantwortlichen. Die eMail Adresse
+                verwenden die Podcastverzeichnisse um den Verantwortlichen des Podcasts
+                zu kontaktieren.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings iTunes Categorie</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_categories.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Im iTunes Podcastverzeichnis werden die Podcasts mit Hilfe von
+                Kategorien in Bereiche aufgeteilt. Hier kann eine möglichst gut 
+                passende Kategorie gewählt werden.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings iTunes Explicit</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_content.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Werden im Podcast bestimmte Themen (z.B. Gewalt, Sexualität) angesprochen
+                so kann dies hier vermerkt werden.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Directory Complete</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_directory_complete.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Ist der Podcast abgeschlossen und sind keine weiteren Folgen geplant,
+                so kann dies hier dem Podcastverzeichnissen mitgeteilt werden.
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
