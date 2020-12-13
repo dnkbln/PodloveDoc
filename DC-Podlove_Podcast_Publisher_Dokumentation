@@ -24,7 +24,7 @@ ROOTID=""
 ##-------------------
 ## Custom stylesheets, optional
 ## (if not defined, the DocBook stylesheets will be used)
-#STYLEROOT=""
+STYLEROOT="/home/ds200/docbook/docbook-xsl-1.79.1"
 #FALLBACK_STYLEROOT=""
 #HTML_CSS=""
 #EPUB_CSS=""

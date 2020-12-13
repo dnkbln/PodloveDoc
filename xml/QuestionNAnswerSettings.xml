@@ -1,0 +1,10 @@
+<chapter id="cha.publisher.questionNanswer.settings">
+    <title>Fragen und Antworten zu den Basisfunktionen des Podlove Podcast Publishers</title>
+    <abstract>
+      <para>
+        Hier werden Fragen zu den grundlegenden Einstellungen des Podlove
+        Podcast Publishers beantwortet.
+      </para>
+    </abstract>
+    <xi:include href="QuestionNAnswerPodlove2473.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  </chapter>
