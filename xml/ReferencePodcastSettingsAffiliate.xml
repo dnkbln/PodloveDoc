@@ -1,0 +1,80 @@
+<section id="sec.publisher.reference.podcast-settings.affiliate">
+    <title>Podcast Settings Tab Affiliate</title>
+    <abstract>
+      <para>
+        Hier können für Amazon unfd Thomann Affiliate Ids hinterlegt werden.
+      </para>
+    </abstract>
+    <para>
+      <figure>
+        <title>Bildschirmfoto von den Podcast Settings Tab Affiliate</title>
+        <mediaobject>
+          <imageobject>
+            <imagedata fileref="podcastsettings_affiliate.png" width="80%" />
+          </imageobject>
+        </mediaobject>
+      </figure>
+      Im Affiliate Tab können die Affiliate Ids des Podcast-Betreibers hinterlegt
+      werden. Diese Ids werden nur genutzt wenn das Shownotes Modul aktiv ist.
+      Werden in den Shownotes Links zu Amazon oder Thomann gesetzt und wurden
+      hier Affiliate Ids hinterlegt, so werden die Links so angepasst, dass die
+      Affiliate Ids integriert werden.
+    </para>
+    <table>
+      <title>Podcast Directory</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colname="1" colwidth="3*" />
+        <colspec colnum="2" colname="2" colwidth="1*" />
+        <thead>
+          <row>
+            <entry>
+              <para>Element</para>
+            </entry>
+            <entry>
+              <para>Aufgabe</para>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Affiliate Amazon</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_affiliate_amazon.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                  Hier kann die Amazon Affiliate Id angegebenen werden.
+              </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>
+                <figure>
+                  <title>Podcast Settings Affiliate Thomann</title>
+                  <mediaobject>
+                    <imageobject>
+                      <imagedata fileref="podcastsettings_affiliate_thomann.png" />
+                    </imageobject>
+                  </mediaobject>
+                </figure>
+              </para>
+            </entry>
+            <entry>
+              <para>
+                Hier kann die Thomann Affiliate Id angegebenen werden.
+              </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
