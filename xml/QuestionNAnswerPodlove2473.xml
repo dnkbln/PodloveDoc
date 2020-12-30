@@ -1,16 +1,17 @@
 <section id="sec.publisher.question.podlove.2473">
     <title>Question: Why is there an option for affiliate ids?</title>
-    <abstract>
-      <para>
-        Frage von community.podlove.org 
-      </para>
-    </abstract>
     <para>
-        Warum gibt es eine Option für Affiliate IDs?
+        <emphasis>Frage:</emphasis> Warum gibt es eine Option für Affiliate IDs?
         <ulink url="https://community.podlove.org/t/why-is-there-an-option-for-affiliate-ids/2473">Podlove Community</ulink>
     </para>
     <para>
-        Es wird nur im Shownotes Module benutzt. Werden in den Shownotes Links hinzugefügt die zu den Webseiten der Affiliate IDs passen, 
+        <emphasis>Antwort:</emphasis> Die Angabe wird nur im Shownotes Module benutzt. Werden in den Shownotes Links hinzugefügt die zu den Webseiten der Affiliate IDs passen, 
         so werden die Links um die Affiliate IDs ergänzt.
+    </para>
+    <para>
+        <emphasis>Referenz:</emphasis>
+        Eingabe Affiliate Ids:
+        <link linkend="sec.publisher.reference.podcast-settings.affiliate">Podcast Settings Affiliate</link> 
+        Shownotes Modul:
     </para>
 </section>

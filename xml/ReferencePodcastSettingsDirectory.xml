@@ -52,7 +52,7 @@
                 Hier wird der Author des Podcasts angegeben. Diese Information 
                 ist öffentlich und findet sich zum Beispiel im iTunes Verzeichnis.
                 An dieser Stelle könnte auch ein Künstlername verwendet werden.
-                Diese Angabe füllt im Feed den Eintrag itunes:author
+                Diese Angabe benutzt im Feed den Eintrag <emphasis>itunes:author</emphasis>
               </para>
             </entry>
           </row>
@@ -113,6 +113,8 @@
                 Angabe wer für diesen Podcast zu ständig. Diese Angabe wird 
                 verwendet wenn Podcastverzeichnisse mit dem Podcastbeteiber 
                 in Kontakt treten wollen.
+                Die Angabe befindet sich im Feed im Abschnitt <emphasis>itunes:owner</emphasis> und 
+                nutzt den Tag <emphasis>itunes:name</emphasis>.
               </para>
             </entry>
           </row>
@@ -134,6 +136,8 @@
                 Angabe der E-Mail Adresse des Podcastverantwortlichen. Die eMail Adresse
                 verwenden die Podcastverzeichnisse um den Verantwortlichen des Podcasts
                 zu kontaktieren.
+                Die Angabe befindet sich im Feed im Abschnitt <emphasis>itunes:owner</emphasis> und 
+                nutzt den Tag <emphasis>itunes:email</emphasis>.
               </para>
             </entry>
           </row>
@@ -155,6 +159,7 @@
                 Im iTunes Podcastverzeichnis werden die Podcasts mit Hilfe von
                 Kategorien in Bereiche aufgeteilt. Hier kann eine möglichst gut 
                 passende Kategorie gewählt werden.
+                Diese Angabe benutzt im Feed den Tag <emphasis>itunes:category</emphasis> 
               </para>
             </entry>
           </row>
@@ -175,6 +180,7 @@
               <para>
                 Werden im Podcast bestimmte Themen (z.B. Gewalt, Sexualität) angesprochen
                 so kann dies hier vermerkt werden.
+                Diese Angabe nutzt im Feed den Eintrag <emphasis>itunes:explicit</emphasis> 
               </para>
             </entry>
           </row>
