@@ -1,0 +1,180 @@
+<chapter id="cha.publisher.reference.assets">
+    <title>Assets</title>
+    <abstract>
+      <para>
+        Hier wird festgelegt, welche Daten zu einer regulären Episode gehören. 
+      </para>
+    </abstract>
+    <section id="cha.publisher.reference.assets.basic">
+      <title>Epsioden-Assets Menü</title>
+      <para>
+        <figure>
+          <title>Bildschirmfoto vom Episoden-Assets Bereich</title>
+          <mediaobject>
+            <imageobject>
+              <imagedata fileref="assets.png" width="80%" />
+            </imageobject>
+          </mediaobject>
+        </figure>
+        Im Episoden-Assets Bereich wird angegeben welche Art von Daten 
+        standardmäßig zu einer Episode gehören sollen. Hier wird somit nicht
+        angegeben, welche konkrete Datei in einer Episode verwendet wird,
+        sondern welche Art von Dateien zu einer regulären Podcastfolge 
+        gehören. Bei einem Audio-Podcast wird zum Beispiel
+        angegeben welche Audio-Formate der Podcast bereitstellt. 
+        Darüber hinaus kann definiert werden, welche zusätzlichen Dateien
+        zum Podcast gehören, z.B. Transkripte oder Kapitelmarken. Für jedes
+        Format und jede zusätzliche Datei muss ein Eintrag erzeugt werden. 
+      </para>
+      <para>
+        Diese Angaben werden später bei der Erzeugung der Episoden genutzt
+        um zu prüfen, ob alle gewünschten Daten vorhanden sind.
+      </para>
+      <para>
+        <caution>
+          <para>
+            Die Eingaben in diesem Tab werden immer erst nach der Betätigung
+            des Buttons <emphasis>Save changes</emphasis> gespeichert und
+            wirksam. Bei einem Wechsel der Tabs ohne <emphasis>Save changes</emphasis>
+            gehen alle Eingabe verloren.
+          </para>
+        </caution>
+      </para>
+      <table>
+        <title>Episoden-Assets</title>
+        <tgroup cols="2">
+          <colspec colnum="1" colname="1" colwidth="3*" />
+          <colspec colnum="2" colname="2" colwidth="1*" />
+          <thead>
+            <row>
+              <entry>
+                <para>Element</para>
+              </entry>
+              <entry>
+                <para>Aufgabe</para>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <para>
+                  <figure>
+                    <title>Episoden-Assets Add New</title>
+                    <mediaobject>
+                      <imageobject>
+                        <imagedata fileref="assets_add_new.png" />
+                      </imageobject>
+                    </mediaobject>
+                  </figure>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  An dieser Stelle wird das Menü zur Erzeugung eines
+                  neuen Episoden-Assets aufgerufen.
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <figure>
+                    <title>Episoden-Assets Liste der Assets</title>
+                    <mediaobject>
+                      <imageobject>
+                        <imagedata fileref="assets_list.png" />
+                      </imageobject>
+                    </mediaobject>
+                  </figure>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  Hier werden alle bereits definierten Episoden-Assets 
+                  aufgelistet. Zu jedem Eintrag wird Episoden-Asset Titel,
+                  der File-Type und ob der Eintrag downloadbar ist angezeigt.
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <figure>
+                    <title>Episoden-Assets Liste der Assets Menü</title>
+                    <mediaobject>
+                      <imageobject>
+                        <imagedata fileref="assets_list_menu.png" />
+                      </imageobject>
+                    </mediaobject>
+                  </figure>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  Ist die Maus über einen Eintrag in der Episoden-Assets
+                  Liste, so werden für diesen Eintrag folgende Menüeinträge
+                  angezeigt.
+                  <simplelist type='horiz' columns='1'>
+                    <member>Edit - Ändern des Episoden-Asset Eintrags</member>
+                    <member>Activating for all existing Episodes - Wurde ein 
+                      Episoden-Asset hinzugefügt und gab es bereits Episoden, 
+                      so kann hiermit das Asset zu allen vorhandenen Episoden
+                      hinzugefügt werden.
+                    </member>
+                    <member>Delete - Löschen des Episoden-Asset Eintrags</member>
+                  </simplelist>  
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <figure>
+                    <title>Episoden-Assets Bild</title>
+                    <mediaobject>
+                      <imageobject>
+                        <imagedata fileref="assets_image.png" />
+                      </imageobject>
+                    </mediaobject>
+                  </figure>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  Hier wird angegeben, welches Bild im Feed für die Episode
+                  verwendet wird. 
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <figure>
+                    <title>Episoden-Assets Kapitelmarken</title>
+                    <mediaobject>
+                      <imageobject>
+                        <imagedata fileref="assets_chapters.png" />
+                      </imageobject>
+                    </mediaobject>
+                  </figure>
+                </para>
+              </entry>
+              <entry>
+                <para>
+                  Hier wird angegeben wie die Kapitelmarken behandelt
+                  werden. Es kann auf die Kapitelmarken verzichtet 
+                  werden oder der Benutzer kann sie manuell verwalten.
+                  <remark>
+                    Welche Auswirkungen hat diese Eintragung?
+                  </remark>
+                </para>
+              </entry>
+            </row>
+
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <xi:include href="ReferenceAssetsAdd.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</chapter>

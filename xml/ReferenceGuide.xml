@@ -23,4 +23,5 @@
   <xi:include href="ReferenceDashboard.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
   <xi:include href="ReferenceAnalytics.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
   <xi:include href="ReferencePodcastSettings.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+  <xi:include href="ReferenceAssets.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 </book>
