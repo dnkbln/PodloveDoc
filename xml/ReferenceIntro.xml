@@ -1,0 +1,29 @@
+<chapter id="chp.publisher.reference.wordpress.intro">
+  <title>Wordpress Intro</title>
+  <abstract>
+    <para>
+      Einführung Referenzhandbuch
+    </para>
+  </abstract>
+  <para>
+    Einführung Referenzhandbuch
+  </para>
+    <para>
+        Im folgenden Übersichtsbild sind alle Podlove Publisher Admin 
+        Menüeinträge aufgeführt. Die einzelnen Seiten im Referenzhandbuch
+        sind über die Überschriften verlinkt. Ein Klick zum Beispiel auf 
+        Dashboard führt direkt zur Dokumentation des Dashboards im 
+        Referenzhandbuch.
+    </para>
+    <figure>
+    <title>Podlove Publisher Menü Übersicht</title>
+    <mediaobject>
+      <imageobject>
+        <imagedata fileref="Podlove_Menu_Ubersicht.svg" format="SVG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <para>
+    Abschluss Einführung
+  </para>
+</chapter>

@@ -19,6 +19,7 @@
       </para>
     </legalnotice>
   </bookinfo>
+  <xi:include href="ReferenceIntro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
   <xi:include href="ReferenceWordpressAdmin.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
   <xi:include href="ReferenceDashboard.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
   <xi:include href="ReferenceAnalytics.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
